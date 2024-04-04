@@ -1,6 +1,6 @@
 # Intro
 
-This is a repo for my talk at GDG Melbourne in Feb 2024.
+This is a repo for my talk at GDG Oran in April 2024.
 
 ## Demos
 
